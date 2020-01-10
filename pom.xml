@@ -11,7 +11,7 @@
     <modules>
         <module>goodlife-ljq</module>
         <module>goodlife-junit</module>
-
+        <module>goodlife-redis</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
