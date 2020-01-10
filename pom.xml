@@ -12,6 +12,9 @@
         <module>goodlife-ljq</module>
         <module>goodlife-junit</module>
         <module>goodlife-redis</module>
+        <module>goodlife-manager</module>
+        <module>goodlife-simple</module>
+        <module>goodlife-freemarker</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

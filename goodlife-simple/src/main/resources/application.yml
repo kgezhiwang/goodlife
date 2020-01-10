@@ -1,0 +1,26 @@
+server: 
+  port: 8081
+spring: 
+  application:  
+    name: tensquare-article #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/goodlife?characterEncoding=UTF8
+    username: root
+    password: test
+  jpa: 
+    database: MySQL
+    show-sql: true
+junit:
+  execution: execution(* com.goodlife.simple.controller.*.*(..))
+  resourcePath: E:\
+
+
+aaa:
+    test:
+        aaa:
+            xx: 1
+            yy: 3
+        bbb:
+            xx: 2
+            yy: 4
