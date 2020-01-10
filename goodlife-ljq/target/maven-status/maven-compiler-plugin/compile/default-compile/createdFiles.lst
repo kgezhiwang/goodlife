@@ -1,0 +1,5 @@
+com\goodlife\ljq\Application.class
+com\goodlife\ljq\model\AbstractResult.class
+com\goodlife\ljq\model\AopResult.class
+com\goodlife\ljq\model\Result.class
+com\goodlife\ljq\model\MethodInterceptorResult.class
