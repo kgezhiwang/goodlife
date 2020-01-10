@@ -1,0 +1,8 @@
+com\goodlife\util\RestApiUtils.class
+com\goodlife\annotation\EnableAopJunitTest.class
+com\goodlife\interceptor\JunitInterceptor.class
+com\goodlife\util\AutoCreateJunitUtils.class
+com\goodlife\util\FreeMarkerUtil.class
+com\goodlife\config\InterceptorConfig.class
+com\goodlife\interceptor\InterceptorAspect.class
+com\goodlife\annotation\EnableInterceptorJunitTest.class

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goodlife-junit" />
+        <module name="goodlife-ljq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="goodlife" target="1.8" />
+      <module name="goodlife-junit" target="1.8" />
+      <module name="goodlife-ljq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
